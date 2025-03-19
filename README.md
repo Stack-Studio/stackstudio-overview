@@ -1,4 +1,4 @@
-# ![Stack Studio Logo](https://yourwebsite.com/icon.png)  
+# ![Stack Studio Logo]([https://yourwebsite.com/icon.png](https://storage.googleapis.com/public-stack-studio/gb3.png))  
 # Stack Studio 🚀  
 ### **Give AI the Context It Needs to Build the Right Software**  
 
@@ -38,8 +38,8 @@ Stack Studio works with **any programming language, framework, or tech stack**. 
 
 ## 📥 Get Started – Close the Deal with AI First  
 
-🔹 **[Visit our website](https://yourwebsite.com)** – Learn how Stack Studio improves AI-powered development.  
-🔹 **[Download for Mac](https://yourwebsite.com/download)** – Get started today.  
+🔹 **[Visit our website](https://stackstudio.io/)** – Learn how Stack Studio improves AI-powered development.  
+🔹 **[Download for Mac and Windows](https://stackstudio.io/))** – Get started today.  
 🔹 **[Watch the video](https://yourwebsite.com/video)** – See it in action.  
 
 💡 **Don’t let AI hallucinate your software!** Close

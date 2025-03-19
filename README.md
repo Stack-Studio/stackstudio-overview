@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://storage.googleapis.com/public-stack-studio/gb3.png" alt="Stack Studio Logo" width="200" height="200">
 </p>
+
+
 # Stack Studio 🚀  
 ### **Give AI the Context It Needs to Build the Right Software**  
 

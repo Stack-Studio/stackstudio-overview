@@ -1,4 +1,4 @@
-# ![Stack Studio Logo]([https://yourwebsite.com/icon.png](https://storage.googleapis.com/public-stack-studio/gb3.png))  
+# ![Stack Studio Logo]([https://storage.googleapis.com/public-stack-studio/gb3.png))  
 # Stack Studio 🚀  
 ### **Give AI the Context It Needs to Build the Right Software**  
 
